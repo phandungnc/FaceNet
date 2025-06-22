@@ -14,9 +14,11 @@
 - Thực hiện đánh giá trên bộ dữ liệu LFW: phần dữ liệu này đã được tải lên và đặt vào đúng đường dẫn trong Google Drive ở phần so sánh các mô hình trước đó
 ### FaceNet ver2
 - Bộ dữ liệu sử dụng: Train_LFW, đây là một phần nhỏ được chọn lọc và tách ra từ bộ dữ liệu LFW
+- Trong Google Drive, tải thư mục Train_LFW lên, đặt trong đường dẫn MyDrive/Colab Notebooks/Train_LFW
 - Code thực hiện: FaceNet_ver2.ipynb
 ### FaceNet ver3
 - Bộ dữ liệu sử dụng: Train_ver3, cũng được tách ra từ bộ dữ liệu LFW nhưng số lượng lớn hơn, gần gấp đôi so với ver2
+- Trong Google Drive, tải thư mục Train_ver3 lên, đặt trong đường dẫn MyDrive/Colab Notebooks/Train_ver3
 - Code thực hiện: FaceNet_ver3.ipynb
 ### Thực hiện tối ưu ver3
 - Bộ dữ liệu sử dụng: vẫn sử dụng bộ dữ liệu Train_ver3
